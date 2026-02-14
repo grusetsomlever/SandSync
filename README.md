@@ -11,6 +11,18 @@ För att kunna spara och ladda ner stats måste du koppla din identitet till en 
 
 ---
 
+### 📝 Vilka stats kan jag spåra?
+Du kan spåra all anpassad statistik ("Custom Statistics") som Minecraft mäter i bakgrunden! För att hitta namnet på en specifik stat kan du kika på **[Minecraft Wiki - Statistics](https://minecraft.wiki/w/Statistics#List_of_custom_statistic_names)** under rubriken *"List of custom statistic names"*.
+
+**Viktigt:** Du behöver **inte** skriva `minecraft:` framför namnet. 
+* Om wikin säger `minecraft:animals_bred`, skriver du bara `animals_bred`.
+* Om wikin säger `minecraft:play_time`, skriver du bara `play_time`.
+* Om wikin säger `minecraft:damage_dealt`, skriver du bara `damage_dealt`.
+
+Dessa namn använder du sedan när du söker efter topplistor eller ändrar din HUD!
+
+---
+
 ### 🔄 Synkning & Uppdatering
 Modden synkar automatiskt i bakgrunden (baserat på din `syncinterval`), men du kan när som helst tvinga fram en uppdatering manuellt.
 
@@ -26,7 +38,7 @@ Vill du kolla vem som leder i en viss kategori utan att ändra din HUD? Använd 
 
 * **`/sandsync top <stat_name>`**
   * **Beskrivning:** Visar topp 5-spelarna för en specifik stat direkt i din chatt.
-  * **Exempel:** `/sandsync top mine_block.minecraft.diamond_ore`
+  * **Exempel:** `/sandsync top animals_bred`
 * **`/sandsync search <spelarnamn>`**
   * **Beskrivning:** Sök på en specifik spelare för att se en snabb sammanfattning av deras stats (t.ex. speltid och dödsfall).
   * **Exempel:** `/sandsync search Notch`
