@@ -42,5 +42,4 @@ I do not sell, rent, or share any of your data with third parties, advertisers, 
 
 ## 6. Contact
 If you have any questions about this Privacy Policy, your data rights, or how your data is handled, please reach out to me via:
-* My Discord: https://discord.gg/gaA8C68ZNp
-* Or send me an email: 
+* My Discord: thesand_wastaken
